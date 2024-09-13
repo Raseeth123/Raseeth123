@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/raseeth2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheik raseeth ansar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Raseeth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raseeth" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@h2215035" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@h2215035" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/h2215035" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@h2215035" height="30" width="40" /></a>
 <a href="https://instagram.com/__r_a_s_e_e_t_h__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_r_a_s_e_e_t_h_" height="30" width="40" /></a>
 </p>
 
