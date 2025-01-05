@@ -66,5 +66,5 @@
 
 <h3 align="left">LeetCode Stats:</h3>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/raseeth?theme=light&font=monospace" alt="LeetCode Stats Light Theme" />
+  <img src="https://leetcard.jacoblin.cool/raseeth2593?theme=light&font=monospace" alt="LeetCode Stats Light Theme" />
 </p>
