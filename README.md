@@ -8,7 +8,7 @@
 
 - 🎓 I'm currently pursuing my B.Tech in Information Technology at National Engineering College
 - 💻 Focusing on **Full Stack Development**
-- 🧠 Solved **350+ LeetCode Problems** and **2500+ SkillRack Problems**
+- 🧠 Solved **400+ LeetCode Problems** and **2500+ SkillRack Problems**
 - 🏆 Won **1st prize in Brainy Basket (Coding Event)** at Mepco Schlenk Engineering College
 - 🚀 Ask me about **React.js, Node.js, MongoDB, and Problem Solving**
 - 📫 How to reach me: **2215035@nec.edu.in**
@@ -71,9 +71,4 @@
 ## 🏆 Achievements:
 - 🏆 **Won 1st prize in Brainy Basket (Coding Event)** at Mepco Schlenk Engineering College
 - 🎓 Academic Rank Holder 2022-2023 (Place - II) with 9.14 CGPA
-- 💻 Solved 350+ LeetCode Problems
-- 💻 Solved 2500+ SkillRack Problems
-- 📚 B.Tech Information Technology at National Engineering College (2022-2026)
-- 📚 HSC: 83% at Meenakshi MHSS (2021-2022)
-- 📚 SSLC: 97.4% at Meenakshi MHSS (2019-2020)
 
