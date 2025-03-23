@@ -11,7 +11,7 @@
 - 🧠 Solved **400+ LeetCode Problems** and **2500+ SkillRack Problems**
 - 🏆 Won **1st prize in Brainy Basket (Coding Event)** at Mepco Schlenk Engineering College
 - 🚀 Ask me about **React.js, Node.js, MongoDB, and Problem Solving**
-- 📫 How to reach me: **2215035@nec.edu.in**
+- 📫 How to reach me: **raseethansar@gmail.com**
 - 👨‍💻 Check out my projects: StreaMax and WALL-E
 
 ## 🔗 Connect with me:
