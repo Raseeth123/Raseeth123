@@ -2,8 +2,9 @@
 
 ## A Passionate Full Stack Developer & IT Engineering Student
 
-<div style="display: flex;">
-<div style="flex: 60%;">
+<p align="center">
+  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
 
 - 🎓 I'm currently pursuing my B.Tech in Information Technology at National Engineering College
 - 💻 Focusing on **Full Stack Development**
@@ -15,24 +16,28 @@
 
 ## 🔗 Connect with me:
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raseeth2004)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__r_a_s_e_e_t_h__)
-[![leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/Raseeth)
-[![hackerrank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/h2215035)
+<p align="center">
+<a href="https://linkedin.com/in/raseeth2004"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/__r_a_s_e_e_t_h__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.leetcode.com/Raseeth"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/h2215035"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
 
 ## 🛠️ Technologies & Tools:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 ## 🚀 My Projects:
 
@@ -52,12 +57,11 @@
 
 ## 📊 GitHub Stats:
 
-### Most Used Languages
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raseeth123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="raseeth123" />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raseeth123&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raseeth123&theme=tokyonight" alt="GitHub Streak" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=raseeth123&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raseeth123&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ## 💡 LeetCode Stats:
 <p align="center">
@@ -72,9 +76,4 @@
 - 📚 B.Tech Information Technology at National Engineering College (2022-2026)
 - 📚 HSC: 83% at Meenakshi MHSS (2021-2022)
 - 📚 SSLC: 97.4% at Meenakshi MHSS (2019-2020)
-</div>
 
-<div style="flex: 40%;">
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
-</div>
